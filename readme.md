@@ -10,4 +10,4 @@ Lista Telefônica - O porteiro irá ligar para morador 1º caso o nome do visita
 
 Prancheta visitantes - será preenchida após confirmar as informações da prancheta autorizados com o documento do visitante.
 
-Caso as informações estejam corretas, o porteiro irá liberar a entrada. 
+##Caso as informações estejam corretas, o porteiro irá liberar a entrada. 
