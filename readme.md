@@ -1,4 +1,4 @@
-Trabalho 6º semestre
+Trabalho 6º semestre em andamento
 
 O objetivo do sistema é ajudar o porteiro a registrar a entrada de visitantes no condomínio.
 
